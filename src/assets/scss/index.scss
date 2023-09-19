@@ -1,0 +1,28 @@
+@import "../fonts/vazir/font-face.css";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Vazir";
+}
+
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #f4f6f8;
+  height: 100%;
+  font-family: "Vazir";
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  height: 100%;
+}
